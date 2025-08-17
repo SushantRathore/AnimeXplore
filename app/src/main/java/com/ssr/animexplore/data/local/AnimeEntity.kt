@@ -17,7 +17,7 @@ import androidx.room.PrimaryKey
 data class AnimeEntity(
     @PrimaryKey val malId: Int,
     val title: String,
-    val imageUrl: String,
+    val imageUrl: String?,
     val score: Double,
     val episodes: Int?
 )

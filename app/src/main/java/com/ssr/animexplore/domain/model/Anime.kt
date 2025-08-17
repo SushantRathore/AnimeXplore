@@ -14,5 +14,5 @@ data class Anime(
     val title: String,
     val episodes: Int?,
     val score: Double?,
-    val imageUrl: String
+    val imageUrl: String?
 )

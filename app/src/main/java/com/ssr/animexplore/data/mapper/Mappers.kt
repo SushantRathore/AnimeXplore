@@ -19,7 +19,7 @@ fun AnimeDto.toEntity(): AnimeEntity {
     return AnimeEntity(
         malId = malId,
         title = title,
-        imageUrl = images.jpg.imageUrl,
+        imageUrl = images?.jpg?.imageUrl,
         score = score ?: 0.0,
         episodes = episodes
     )
