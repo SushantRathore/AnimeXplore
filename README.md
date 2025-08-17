@@ -2,10 +2,10 @@
 
 A simple Android app that fetches and displays a list of top-rated anime series using the Jikan API. Built with a clean MVVM architecture, it supports both online and offline functionality using Room and Retrofit.
 
-![image](https://github.com/user-attachments/assets/491638ae-7cce-4439-a694-88f3f4be8322)
 
 
-![image](https://github.com/user-attachments/assets/0210cf18-82cb-4d7d-8907-68d9841a5663)
+<img src="https://raw.githubusercontent.com/SushantRathore/AnimeXplore/ae82084ea93994a8501ce9be373da1b7dff566bc/HomePage1.png" alt="App Home Page" width="400" />
+
 
 
 ---
